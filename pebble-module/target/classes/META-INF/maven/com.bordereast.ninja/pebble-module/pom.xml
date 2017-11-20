@@ -11,7 +11,16 @@
 	<name>NinjaPebbleModule</name>
 
 	<description>Pebble Template module for Ninjaframework</description>
-
+	<scm>
+	  <url>https://github.com/bordereast/ninja-pebble-module.git</url>
+	</scm>
+	<licenses>
+	  <license>
+	    <name>Apache License, Version 2.0</name>
+	    <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+	    <distribution>repo</distribution>
+	  </license>
+	</licenses>
 	<properties>
         <ninja.version>6.2.0</ninja.version>
         <jetty.version>9.3.15.v20161220</jetty.version>

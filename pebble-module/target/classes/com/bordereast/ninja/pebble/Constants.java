@@ -67,13 +67,5 @@ public interface Constants {
     public static final String PROP_WHITE_SPACE_TRIM_DEFAULT = "-";
     
 
-    /*
-     *                 delimiterCommentOpen, 
-                delimiterCommentClose, 
-                delimiterExecuteOpen, 
-                delimiterExecuteClose, 
-                delimiterPrintOpen, 
-                delimiterPrintClose, 
-                whitespaceTrim
-     */
+
 }
