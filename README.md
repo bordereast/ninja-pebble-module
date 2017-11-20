@@ -46,6 +46,8 @@ Create the `views/error/500internalServerError.html` file with these contents (o
 ### Configure
 The following configuration is available via conf/application.conf
 
+[See Pebble Engine Settings for more info](http://www.mitchellbosecke.com/pebble/documentation/guide/installation)
+
 ```
 # You can leave these out if not changing these defaults
 ninja.template.pebble.fileExt=.html
