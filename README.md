@@ -4,7 +4,14 @@ Pebble Template integration for Ninja web framework
 Updated Pebble module for Ninja framework. Java 8, Ninja 6.2.0. Allows configuration of most Pebble options including the Syntax.
 
 ### Install
-Currently pending project creation on central repository.
+
+```
+<dependency>
+    <groupId>com.bordereast.ninja</groupId>
+    <artifactId>pebble-module</artifactId>
+    <version>0.0.2</version>
+</dependency>
+```
 
 ### Usage
 
